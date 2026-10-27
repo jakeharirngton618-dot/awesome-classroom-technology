@@ -35,6 +35,7 @@ Platforms designed to increase participation, interaction, and active learning.
 - [Kahoot!](https://kahoot.com/) — Game-based learning platform for quizzes and interactive activities.
 - [Nearpod](https://nearpod.com/) — Interactive lesson platform with real-time student engagement tools.
 - [Mentimeter](https://www.mentimeter.com/) — Live polling and interactive presentation platform.
+- [Color Dice Game](https://colordice.fun/color-dice-game) — Free browser color dice game: pick a color, roll three dice and score your matches in Quick Play or a 10-Round Challenge. No sign-up.
 
 ## Assessment & Feedback
 
